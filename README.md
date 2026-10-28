@@ -113,32 +113,32 @@ BENEFITS OF SEQUENCE DIAGRAM:
 
 ## UML DIAGRAMS
 1. Use Case Diagram <br>
-<img width="949" height="759" alt="Screenshot 2026-10-28 153620" src="https://github.com/user-attachments/assets/ad89f211-99e5-48b2-b4df-ee07029dbf8d" />
+<img width="918" height="745" alt="image" src="https://github.com/user-attachments/assets/52fa2629-4bdb-48a6-b4c4-b979b28659eb" />
 
 
 
 2. Class Diagram <br>
-<img width="878" height="683" alt="Screenshot 2026-10-28 153635" src="https://github.com/user-attachments/assets/f745e6e0-9523-46ae-8346-a61a7e033c1f" />
+<img width="863" height="678" alt="image" src="https://github.com/user-attachments/assets/1913505e-e29f-435c-b350-4170e7ef817c" />
 
 
 
 3. Activity Diagram <br>
-<img width="710" height="853" alt="image" src="https://github.com/user-attachments/assets/e8c8513b-4099-4ec6-8387-52fc7a64a239" />
+<img width="680" height="854" alt="image" src="https://github.com/user-attachments/assets/271d27bf-03fd-4a0f-927d-65fb6772279a" />
 
 
 
 4. Sequence Diagram <br>
-<img width="908" height="609" alt="image" src="https://github.com/user-attachments/assets/101e4346-c9d6-4cf0-9ead-35a9953ef0f4" />
+<img width="909" height="616" alt="image" src="https://github.com/user-attachments/assets/4ffac7cd-8855-44bb-8e7c-bd056220ba3e" />
 
 
 
 5. Communication Diagram <br>
-<img width="998" height="549" alt="image" src="https://github.com/user-attachments/assets/a7592312-fea8-4682-a7b7-f75d766ad77f" />
+<img width="1010" height="561" alt="image" src="https://github.com/user-attachments/assets/45b52217-097a-4c3f-bac7-2b97ab4969a3" />
 
 
 
 6. Package Diagram <br>
-<img width="608" height="305" alt="image" src="https://github.com/user-attachments/assets/e44cc68d-b4ae-4f86-941f-c7628b5b195b" />
+<img width="628" height="335" alt="image" src="https://github.com/user-attachments/assets/843c0a95-5cdb-4961-af18-06d89207836e" />
 
    
 
