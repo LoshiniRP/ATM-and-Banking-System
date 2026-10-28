@@ -1,4 +1,4 @@
-<img width="878" height="683" alt="image" src="https://github.com/user-attachments/assets/b84566b5-ec4c-4774-a616-2c6a7fa15960" /># ATM-AND-BANKING-SYSTEM
+# ATM-AND-BANKING-SYSTEM
 ### Reg No: 212225230155
 ### Name: Loshini R P
 ### Date: 28.10.2026
@@ -115,17 +115,27 @@ BENEFITS OF SEQUENCE DIAGRAM:
 1. Use Case Diagram <br>
 <img width="949" height="759" alt="Screenshot 2026-10-28 153620" src="https://github.com/user-attachments/assets/ad89f211-99e5-48b2-b4df-ee07029dbf8d" />
 
+
+
 2. Class Diagram <br>
 <img width="878" height="683" alt="Screenshot 2026-10-28 153635" src="https://github.com/user-attachments/assets/f745e6e0-9523-46ae-8346-a61a7e033c1f" />
+
+
 
 3. Activity Diagram <br>
 <img width="710" height="853" alt="image" src="https://github.com/user-attachments/assets/e8c8513b-4099-4ec6-8387-52fc7a64a239" />
 
+
+
 4. Sequence Diagram <br>
 <img width="908" height="609" alt="image" src="https://github.com/user-attachments/assets/101e4346-c9d6-4cf0-9ead-35a9953ef0f4" />
 
+
+
 5. Communication Diagram <br>
 <img width="998" height="549" alt="image" src="https://github.com/user-attachments/assets/a7592312-fea8-4682-a7b7-f75d766ad77f" />
+
+
 
 6. Package Diagram <br>
 <img width="608" height="305" alt="image" src="https://github.com/user-attachments/assets/e44cc68d-b4ae-4f86-941f-c7628b5b195b" />
